@@ -34,7 +34,7 @@
  *   - Hindari pin: GPIO1,3 (serial), GPIO6-11 (flash), GPIO0,2,5,15 (boot)
  *   - GPIO15 sudah aman untuk buzzer karena internal pull-down
  * 
- * DIBUAT OLEH: (Nama Anda)
+ * DIBUAT OLEH: FARIZ
  * TANGGAL:     April 2026
  * ============================================================================
  */
